@@ -1,0 +1,43 @@
+{
+    "people": [
+      {
+        "id": "1234",
+        "name": "João Silva",
+        "contacts": [
+          {
+            "type": "phone",
+            "value": "+5511987654321",
+            "label": "Personal"
+          },
+          {
+            "type": "email",
+            "value": "joao.silva@example.com",
+            "label": "Work"
+          }
+        ]
+      },
+      {
+        "id": "5678",
+        "name": "Maria Oliveira",
+        
+        "contacts": [
+          {
+            "type": "phone",
+            "value": "+351912345678",
+            "label": "Mobile"
+          },
+          {
+            "type": "email",
+            "value": "maria.oliveira@example.pt",
+            "label": "Personal"
+          },
+          {
+            "type": "whatsapp",
+            "value": "+351912345678",
+            "label": "WhatsApp"
+          }
+        ]
+      }
+    ]
+  }
+  

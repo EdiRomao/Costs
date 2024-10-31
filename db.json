@@ -1,0 +1,52 @@
+{
+  "projects": [
+    {
+      "id": "16aa",
+      "name": "Project FMI",
+      "badget": "1000000",
+      "categories": {
+        "id": "5",
+        "name": "Analise de Sistema"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "18ed",
+      "name": "API Strong",
+      "badget": "20.000",
+      "categories": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Planejamento"
+    },
+    {
+      "id": "4",
+      "name": "Designer"
+    },
+    {
+      "id": "5",
+      "name": "Analise de Sistema"
+    },
+    {
+      "id": "6",
+      "name": "Management"
+    }
+  ]
+}
